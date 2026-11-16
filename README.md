@@ -73,6 +73,46 @@ Through KAY POWER HUB, I share practical learning resources, technical tutorials
 
 My goal is to help professionals learn, apply, and benefit from Microsoft technologies through practical knowledge sharing.
 
+
+## Featured GitHub Projects
+
+### Power BI Dashboard Gallery
+
+[Explore the Power BI Dashboard Gallery](https://github.com/khashayary/PowerBI-Dashboard-Gallery)
+
+A practical Microsoft Power BI learning repository featuring:
+
+* Synthetic business analytics datasets
+* Reusable DAX calculations
+* Retail sales analytics examples
+* Business intelligence learning resources
+* Guided Power BI dashboard development
+
+Developed through KAY POWER HUB to support the global Microsoft technology community.
+
+
+## Retail Sales Analytics Dashboard Design
+
+The three images below show the planned layout for the Retail Sales Analytics Power BI report. They are illustrative previews generated from the included synthetic dataset, **not screenshots of a finished Power BI report**.
+
+### Executive Overview
+
+![Executive dashboard design preview](assets/dashboard-preview-executive.png)
+
+### Product Performance
+
+![Product dashboard design preview](assets/dashboard-preview-products.png)
+
+### Customers and Channels
+
+![Customers and channels dashboard design preview](assets/dashboard-preview-channels.png)
+
+The report build guide is available in [`docs/REPORT_BUILD_GUIDE.md`](docs/REPORT_BUILD_GUIDE.md). The Power BI theme is in [`themes/KAY_POWER_HUB_Retail_Analytics.json`](themes/KAY_POWER_HUB_Retail_Analytics.json).
+
+**Report status:** Reproducible design previews, DAX, dataset and instructions are available; Power BI `.pbix` / `.pbip` report has not yet been published.
+
+
+
 ## Publications
 
 **Business Analytics with Power BI**
