@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/khashayary/khashayary/main/assets/banner.png" alt="Khashayar Yazdani GitHub Banner" width="100%">
+</p>
+
 # Khashayar Yazdani
 
 **Microsoft Certified Trainer | Power BI | Microsoft Copilot | Business Analytics | AI and Intelligent Transformation**
