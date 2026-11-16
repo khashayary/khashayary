@@ -97,15 +97,15 @@ The three images below show the planned layout for the Retail Sales Analytics Po
 
 ### Executive Overview
 
-![Executive dashboard design preview](assets/dashboard-preview-executive.png)
+[Executive dashboard design preview](assets/dashboard-preview-executive.png)
 
 ### Product Performance
 
-![Product dashboard design preview](assets/dashboard-preview-products.png)
+[Product dashboard design preview](assets/dashboard-preview-products.png)
 
 ### Customers and Channels
 
-![Customers and channels dashboard design preview](assets/dashboard-preview-channels.png)
+[Customers and channels dashboard design preview](assets/dashboard-preview-channels.png)
 
 The report build guide is available in [`docs/REPORT_BUILD_GUIDE.md`](docs/REPORT_BUILD_GUIDE.md). The Power BI theme is in [`themes/KAY_POWER_HUB_Retail_Analytics.json`](themes/KAY_POWER_HUB_Retail_Analytics.json).
 
