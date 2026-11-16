@@ -4,6 +4,14 @@
 
 # Khashayar Yazdani
 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft%20Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Microsoft Power BI">
+  <img src="https://img.shields.io/badge/Microsoft%20Copilot-3654A5?style=for-the-badge" alt="Microsoft Copilot">
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-107C41?style=for-the-badge" alt="Microsoft Fabric">
+  <img src="https://img.shields.io/badge/Business%20Analytics-6246A8?style=for-the-badge" alt="Business Analytics">
+</p>
+
 **Microsoft Certified Trainer | Power BI | Microsoft Copilot | Business Analytics | AI and Intelligent Transformation**
 
 Welcome to my GitHub profile!
