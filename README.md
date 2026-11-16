@@ -2,8 +2,9 @@
   <img src="https://raw.githubusercontent.com/khashayary/khashayary/main/assets/banner.png" alt="Khashayar Yazdani GitHub Banner" width="100%">
 </p>
 
-# Khashayar Yazdani
+## Khashayar Yazdani
 
+**Microsoft Certified Trainer | Power BI | Microsoft Copilot | Business Analytics | AI and Intelligent Transformation**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft%20Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Microsoft Power BI">
@@ -12,11 +13,49 @@
   <img src="https://img.shields.io/badge/Business%20Analytics-6246A8?style=for-the-badge" alt="Business Analytics">
 </p>
 
-**Microsoft Certified Trainer | Power BI | Microsoft Copilot | Business Analytics | AI and Intelligent Transformation**
 
 Welcome to my GitHub profile!
 
 I am a Microsoft Certified Trainer, author, and technology educator passionate about empowering professionals and organizations through Microsoft technologies, data analytics, and artificial intelligence.
+
+
+## Professional Credentials and Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft%20Certified%20Trainer-MCT-0078D4?style=for-the-badge" alt="Microsoft Certified Trainer">
+</p>
+
+### Microsoft Technology Expertise
+
+**Microsoft Certified Trainer (MCT)**
+
+Experienced technology educator delivering professional training in Microsoft Power BI, Microsoft Copilot, Business Analytics, and AI applications.
+
+### Professional Training
+
+Corporate and public training programs covering:
+
+1. Microsoft Power BI and Business Intelligence
+2. Microsoft Copilot for Business Productivity
+3. Advanced Excel Analytics
+4. AI and Intelligent Business Transformation
+
+### Books and Publications
+
+**Business Analytics with Power BI**
+
+Author of a practical resource focused on business intelligence, analytics, and Power BI applications.
+
+**Agentic AI: Leading the Next Wave of Intelligent Transformation**
+
+Author of a strategic resource exploring intelligent enterprises, AI agents, and business transformation.
+
+### Community Knowledge Sharing
+
+Through **KAY POWER HUB**, I share Microsoft technology knowledge, practical analytics examples, educational content, and business applications.
+
+My focus is making technology accessible, practical, and useful for the wider professional community.
+
 
 ## Areas of Expertise
 
